@@ -1,0 +1,17 @@
+C:\Users\jalkhov\Documents\Visual Studio 2010\Projects\XPIDude\XPIDude\bin\Release\Addude.chm
+C:\Users\jalkhov\Documents\Visual Studio 2010\Projects\XPIDude\XPIDude\bin\Release\Rar.exe
+C:\Users\jalkhov\Documents\Visual Studio 2010\Projects\XPIDude\XPIDude\bin\Release\Addude.exe.config
+C:\Users\jalkhov\Documents\Visual Studio 2010\Projects\XPIDude\XPIDude\bin\Release\Addude.exe.manifest
+C:\Users\jalkhov\Documents\Visual Studio 2010\Projects\XPIDude\XPIDude\bin\Release\Addude.application
+C:\Users\jalkhov\Documents\Visual Studio 2010\Projects\XPIDude\XPIDude\bin\Release\Addude.exe
+C:\Users\jalkhov\Documents\Visual Studio 2010\Projects\XPIDude\XPIDude\bin\Release\Addude.pdb
+C:\Users\jalkhov\Documents\Visual Studio 2010\Projects\XPIDude\XPIDude\obj\x86\Release\Addude.Form1.resources
+C:\Users\jalkhov\Documents\Visual Studio 2010\Projects\XPIDude\XPIDude\obj\x86\Release\Addude.Info.resources
+C:\Users\jalkhov\Documents\Visual Studio 2010\Projects\XPIDude\XPIDude\obj\x86\Release\Addude.ProjectTree.resources
+C:\Users\jalkhov\Documents\Visual Studio 2010\Projects\XPIDude\XPIDude\obj\x86\Release\Addude.Properties.Resources.resources
+C:\Users\jalkhov\Documents\Visual Studio 2010\Projects\XPIDude\XPIDude\obj\x86\Release\XPIDude.csproj.GenerateResource.Cache
+C:\Users\jalkhov\Documents\Visual Studio 2010\Projects\XPIDude\XPIDude\obj\x86\Release\Addude.TrustInfo.xml
+C:\Users\jalkhov\Documents\Visual Studio 2010\Projects\XPIDude\XPIDude\obj\x86\Release\Addude.exe.manifest
+C:\Users\jalkhov\Documents\Visual Studio 2010\Projects\XPIDude\XPIDude\obj\x86\Release\Addude.application
+C:\Users\jalkhov\Documents\Visual Studio 2010\Projects\XPIDude\XPIDude\obj\x86\Release\Addude.exe
+C:\Users\jalkhov\Documents\Visual Studio 2010\Projects\XPIDude\XPIDude\obj\x86\Release\Addude.pdb

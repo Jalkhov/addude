@@ -1,3 +1,0 @@
-C:\Users\jalkhov\Documents\Visual Studio 2010\Projects\XPIDude\XPIDude\bin\Release\Addude.exe.config
-C:\Users\jalkhov\Documents\Visual Studio 2010\Projects\XPIDude\XPIDude\obj\x86\Release\Addude.exe
-C:\Users\jalkhov\Documents\Visual Studio 2010\Projects\XPIDude\XPIDude\obj\x86\Release\Addude.pdb

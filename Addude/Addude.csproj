@@ -27,7 +27,7 @@
     <TargetCulture>en</TargetCulture>
     <ProductName>Addude</ProductName>
     <PublisherName>Pedro Torcatt</PublisherName>
-    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationRevision>1</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <CreateDesktopShortcut>true</CreateDesktopShortcut>
